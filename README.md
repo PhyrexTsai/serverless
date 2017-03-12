@@ -2,6 +2,19 @@
 
 Using serverless framework to run each project on AWS Lambda.
 
+#### Usage
+
+```
+# Install
+npm i -g serverless
+
+# Deploy
+serverless deploy -v
+
+# Remove 
+serverless remove
+```
+
 ### Serverless-webhook
 
 #### Introduce
